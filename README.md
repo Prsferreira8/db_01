@@ -3,3 +3,5 @@
 <li> Criação de Tabelas </li>
 <li> Edição de Tabelas </li>
 <li> Exportação de Banco de Dados </li>
+<li> Importação de Dados </li>
+<li> Envio dos dados para o GitHub </li>
