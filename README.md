@@ -5,3 +5,4 @@
 <li> Exportação de Banco de Dados </li>
 <li> Importação de Dados </li>
 <li> Envio dos dados para o GitHub </li>
+<li> Uso do Dbiver e PhpMyAdmin para construção do banco de dados </li>
